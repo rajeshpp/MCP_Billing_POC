@@ -1,0 +1,11 @@
+openai
+agents
+python-dotenv
+aiohttp
+fastapi
+uvicorn[standard]
+mcp
+sqlalchemy
+pydantic
+python-dotenv
+requests

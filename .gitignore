@@ -2,3 +2,13 @@ venv
 */venv
 .env
 */.env
+*/*/.env
+.venv
+*/.venv
+__pycache__
+*.pyc
+instance
+*.sqlite
+*.db
+*.log
+.DS_Store
